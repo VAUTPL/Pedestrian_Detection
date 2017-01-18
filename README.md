@@ -20,7 +20,7 @@ Installation
 ------------
 1. First, one should install the following libraries:
   - [OpenCV](http://opencv.org/) version 2.4.10+
-  - [Python](https://www.python.org/) 2.7.9 (or any later Python 2.x) ([See **_Installation on OS X_** if using a Mac](#installation-on-os-x))
+  - [Python](https://www.python.org/) 2.7.9 (or any later Python 2.x)
   - [Numpy](http://www.numpy.org/) 1.9.2+
   
 - Now download and extract this repository with one of several options:

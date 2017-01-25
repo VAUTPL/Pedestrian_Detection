@@ -24,7 +24,7 @@ Installation
   - [Numpy](http://www.numpy.org/) 1.9.2+
   
 - Now download and extract this repository with one of several options:
-  - Clone the repository with `$ git clone https://github.com/VAUTPL/Deteccion.git`
+  - Clone the repository with `$ git clone https://github.com/VAUTPL/Pedestrian_Detection.git`
   - Download the repository as a `.zip` or `.tar.gz` and then extract it.
 
 Running
